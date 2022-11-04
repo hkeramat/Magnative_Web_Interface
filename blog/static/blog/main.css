@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(70deg, #e6e6e6, #f7f7f7);
+    color: #514B64;
+    min-height: 100vh;
+  }
+  
+.logo{
+  max-width: 100%;
+  height: 100px;
+}
+.navbar-light .navbar-nav .nav-link{
+  font-size: 18px;
+}
